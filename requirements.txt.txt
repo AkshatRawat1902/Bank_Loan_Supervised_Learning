@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+numpy==1.25.2
+pandas==1.5.3
+scipy==1.11.4
+seaborn==0.13.1
+session_info==1.0.0
+sklearn==1.2.2
+statsmodels==0.14.1
